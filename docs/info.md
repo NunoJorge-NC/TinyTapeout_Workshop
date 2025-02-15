@@ -13,7 +13,7 @@ The project simply displays different symbols in a 7-segment LED display accordi
 
 ## How to test
 
-To test the project, one should try different input binary words. The output should only display the letter n (without the dot; outputs 0, 1, 2, 4, and 5 HIGH and the others LOW) when the input is 0b00010101.
+To test the project, one should try different input binary words. The output should only display the letter n (without the dot; outputs 0, 1, 2, 4, and 5 HIGH and the others LOW) when the input is 0b00010101 (21 in binary).
 
 ## External hardware
 
