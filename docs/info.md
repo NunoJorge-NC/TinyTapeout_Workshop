@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project simply displays different symbols in a 7-segment LED display according to the input binary word.
 
 ## How to test
 
-Explain how to use your project
+To test the project, one should try different input binary words. The output should only display the letter n (without the dot; outputs 0, 1, 2, 4, and 5 HIGH and the others LOW) when the input is 0b00010101.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 input switches;
+7-segment LED display.
