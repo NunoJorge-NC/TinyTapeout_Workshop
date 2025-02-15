@@ -4,7 +4,7 @@ project:
   title:        "Nuno's first Wokwi design"      # Project title
   author:       "Nuno Jorge"      # Your name
   discord:      "nunojorge_39719"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Secret code to display the letter n"      # One line description of what your project does
+  description:  "Specific input binary word to display the letter n"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
